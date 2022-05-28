@@ -1,10 +1,12 @@
 # Digit_Recognition
 
-Group members:
-	Ajay Tarole,
-	Ashish Kumar Suraj,
-	Vikash Vitthore,
-	Naimat Ali Khan
+## The project was completed in Winter semester(2021-22) under the instruction of Dr. Soumajit Pramanik(faculty of IITBh) in Artificial Intelligence course.
+
+## Group members:
+	- Ajay Tarole,
+	- Ashish Kumar Suraj,
+	- Vikash Vitthore,
+	- Naimat Ali Khan
 	
 HandWritten Digit Recognition: Digits written by humans vary a lot in curves and sizes as they are hand-drawn and everyone’s writing is not the same. It is a great way to start artificial intelligence by building a handwritten digits recognition system that can identify the digit drawn by humans.
 
